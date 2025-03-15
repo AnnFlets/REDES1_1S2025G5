@@ -297,13 +297,17 @@ show spanning-tree active
 En las siguientes imágenes se muestran algunos ejemplos de pings realizados entre hosts de distintas áreas, esto con el fin de comprobar la existencia de comunicación entre los equipos.
 
 Ping entre equipo de "Gerencia" y "Soporte Técnico":
+
 ![Ping entre equipo Gerencia y Soporte Técnico](img/PingGer4Sop1.png)
 
 Ping entre equipo de "Recepción" y "Recepción":
+
 ![Ping entre equipo Recepción y Recepción](img/PingRec1Rec3.png)
 
 Ping entre equipo de "Recepción" y "Ventas":
+
 ![Ping entre equipo Recepción y Ventas](img/PingRec2Ven1.png)
 
 Ping entre equipo de "Seguridad" y "Seguridad":
+
 ![Ping entre equipo Seguridad y Seguridad](img/PingSeg7Seg5.png)
